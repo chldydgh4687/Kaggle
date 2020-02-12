@@ -10,7 +10,7 @@
 ---
 
 ## Contents
-
+- AI_theory : 공부했던 개념을 저장하는 곳입니다.
 - Tutorial : Titanic
   
 ---

@@ -12,6 +12,5 @@
 ## Contents
 
 - Tutorial : Titanic
-  - Titanic(0.72_RF_T1).ipynb : DataEngineering + RandomForest
   
 ---

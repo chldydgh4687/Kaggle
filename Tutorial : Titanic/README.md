@@ -1,5 +1,5 @@
 
-# Tutorial : Titanic
+![https://github.com/chldydgh4687/Kaggle/blob/master/Competition_images/Titanic.PNG?raw=true](https://github.com/chldydgh4687/Kaggle/blob/master/Competition_images/Titanic.PNG?raw=true)
 
 Link : [https://www.kaggle.com/c/titanic/overview](https://www.kaggle.com/c/titanic/overview)
 

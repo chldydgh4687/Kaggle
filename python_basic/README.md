@@ -3,7 +3,7 @@
 ## ref : Do it! 데이터 분석을 위한 판다스 입문
 
 - 데이터 프레임을 다루는데 괜찮은 책이다. 캐글을 진행할 때 필요없는 데이터나 Nan 의 데이터를 찾거나 채우는데 용이하다.
-- reference source Link : [https://github.com/easysIT/doit_pandas](https://github.com/easysIT/doit_pandas)
+- doit_pandas-master.zip reference Link : [https://github.com/easysIT/doit_pandas](https://github.com/easysIT/doit_pandas)
   
 ---
 
